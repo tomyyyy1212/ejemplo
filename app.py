@@ -21,7 +21,7 @@ conn = mysql.connector.connect(
 
 @app.route('/')
 def hello_world():
-    return 'Hola Mundo!'
+    return 'conexión con bbdd!'
 
 if __name__ == '__main__':
     app.run()
