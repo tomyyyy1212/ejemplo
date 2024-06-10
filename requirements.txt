@@ -5,3 +5,7 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
+mysql_connector_repackaged
+pandas
+Requests
+
